@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @adrianhCoder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://adrianh-portfolio.webflow.io/portfolio
-
-<!---
-adrianhCoder/adrianhCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in creating eficient and beautiful code
+- 🌱 I’m currently learning more about databases, and refining my actual skills in coding
+- 💞️ I’m looking to collaborate with a company 
+- 📫 How to reach me ... e-mail: https://adrianh-portfolio.webflow.io/portfolio 
+  
