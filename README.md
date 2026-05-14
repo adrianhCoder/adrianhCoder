@@ -3,7 +3,7 @@
   Backend developer enfocado en automatización de procesos e integración de IA.
   Construyo sistemas que conectan ERPs, marketplaces y modelos de lenguaje con Python, REST APIs y webhooks.
 
-  ## Qué hago en producción
+  ## Mi daily
 
   - 🤖 Chatbots GPT multi-canal (WhatsApp, Instagram, Facebook) vía Atom + OpenAI API
   - 🔄 Conectores bidireccionales Odoo ↔ marketplaces (MercadoLibre, Amazon, Walmart, Shopify)
