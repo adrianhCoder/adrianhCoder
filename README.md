@@ -67,6 +67,15 @@ Backend &amp; AI engineer with **3+ years** shipping software for real businesse
   <img src="https://img.shields.io/badge/Ettercap-333333?style=flat-square"/>
 </p>
 
+**Algorithmic Trading** 📈
+<p>
+  <img src="https://img.shields.io/badge/MQL4-00427E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MQL5-0C6EB5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MetaTrader-4_%2F_5-1C2237?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pine_Script-TradingView-2962FF?style=flat-square&logo=tradingview&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Genetic_Algorithms-6A1B9A?style=flat-square"/>
+</p>
+
 **AI / LLM stack**
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
