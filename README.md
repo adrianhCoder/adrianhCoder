@@ -28,17 +28,43 @@ Backend &amp; AI engineer with **3+ years** shipping software for real businesse
 
 **Languages &amp; Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,ts,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,js,ts,java,html,css" />
 </p>
 
 **Data · Cloud · DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker,kubernetes,gcp,azure,aws,linux,bash,git,github,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,firebase,docker,kubernetes,gcp,azure,aws,cloudflare,linux,kali,bash,git,github,vercel,postman,androidstudio&perline=9" />
 </p>
 
-**Frontend**
+**Frontend &amp; Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,wordpress" />
+</p>
+
+**ERP · Odoo &amp; Integrations**
+<p>
+  <img src="https://img.shields.io/badge/Odoo-14_%E2%86%92_19-714B67?style=flat-square&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWL-Odoo_Web_Library-875A7B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Odoo.sh-CI%2FCD-714B67?style=flat-square&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MercadoLibre-FFE600?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Amazon_Marketplace-FF9900?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Walmart-0071CE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+</p>
+
+**Cybersecurity roots** 🔐
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-16213E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ettercap-333333?style=flat-square"/>
 </p>
 
 **AI / LLM stack**
@@ -48,6 +74,8 @@ Backend &amp; AI engineer with **3+ years** shipping software for real businesse
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-5A67D8?style=flat-square"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square"/>
