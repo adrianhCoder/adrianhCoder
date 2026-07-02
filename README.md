@@ -46,9 +46,9 @@ Backend &amp; AI engineer with **3+ years** shipping software for real businesse
   <img src="https://img.shields.io/badge/Odoo-14_%E2%86%92_19-714B67?style=flat-square&logo=odoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWL-Odoo_Web_Library-875A7B?style=flat-square"/>
   <img src="https://img.shields.io/badge/Odoo.sh-CI%2FCD-714B67?style=flat-square&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MercadoLibre-FFE600?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Amazon_Marketplace-FF9900?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Walmart-0071CE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MercadoLibre_API-FFE600?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Amazon_API-FF9900?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Walmart_API-0071CE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white"/>
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
