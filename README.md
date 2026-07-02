@@ -70,8 +70,8 @@ Backend &amp; AI engineer with **3+ years** shipping software for real businesse
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrianhCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhCoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.zohan.tech/api?username=adrianhCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=adrianhCoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
 </p>
 
 ---
