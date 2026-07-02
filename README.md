@@ -70,8 +70,17 @@ Backend &amp; AI engineer with **3+ years** shipping software for real businesse
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.zohan.tech/api?username=adrianhCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+  <img src="https://badges.pufler.dev/years/adrianhCoder?style=for-the-badge&color=8B5CF6&label=Years%20on%20GitHub" alt="years on github"/>
+  <img src="https://badges.pufler.dev/repos/adrianhCoder?style=for-the-badge&color=0A66C2&label=Public%20Repos" alt="public repos"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.zohan.tech/api?username=adrianhCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs" alt="stats"/>
   <img height="165" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=adrianhCoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adrianhCoder&theme=tokyonight&hide_border=true" alt="contribution streak"/>
 </p>
 
 ---
